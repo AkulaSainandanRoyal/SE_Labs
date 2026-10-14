@@ -1,0 +1,8 @@
+Story ID,Epic ID,Summary,User Story,Priority,Story Points,Suggested Sprint
+ST-01,EPIC-1,Register Medicine Batch,"As a pharmacist, I want to register a medicine batch with batch number, quantity, and expiry date so that inventory records remain accurate.",High,5,Sprint 1
+ST-02,EPIC-1,View Inventory and Stock Levels,"As a pharmacist, I want to view medicine batches and their available quantities so that I can monitor stock.",High,3,Sprint 1
+ST-03,EPIC-2,Identify Expired and Near-Expiry Batches,"As a pharmacist, I want to see expired and near-expiry batches so that I can prevent expired medicine from being dispensed.",High,5,Sprint 1
+ST-04,EPIC-2,Apply FEFO Batch Selection,"As a pharmacist, I want the system to prioritize the earliest-expiring valid batch so that stock is issued safely and waste is reduced.",High,8,Sprint 2
+ST-05,EPIC-3,Flag Low-Stock Medicines,"As an inventory manager, I want the system to flag medicines below their reorder threshold so that replenishment can start on time.",Medium,3,Sprint 2
+ST-06,EPIC-3,Generate Purchase Order Draft,"As an inventory manager, I want to create a purchase order draft for low-stock medicines so that restocking is easier to coordinate.",Medium,5,Sprint 2
+ST-07,EPIC-3,Track Order and Dispatch Status,"As an inventory manager, I want to update and view purchase-order and dispatch status so that I can track replenishment.",Low,3,Sprint 2
