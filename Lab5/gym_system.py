@@ -1,5 +1,5 @@
 import json
-import os
+import pathlib import Path
 
 # Global state
 class_capacity = {"Yoga": 3, "HIIT": 2, "Spin": 4}
